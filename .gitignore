@@ -1,0 +1,7 @@
+#OS specific ignores
+
+#Windows
+T(t)humbs.db
+
+#OSX
+*.DS_Store
